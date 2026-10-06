@@ -1,19 +1,19 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.1.0/wspace_0.1.0_windows_amd64.zip",
+            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.2.0/wspace_0.2.0_windows_amd64.zip",
             "bin": [
                 "wspace.exe"
             ],
-            "hash": "909ca145ef5e349683c49880c7b3b792a605c1d4a6a888f6f5da911bf7fb088f"
+            "hash": "1139867ce51421d4009c5d4033f9f2150e1dd817bf1b84103e83b9f0bf0d15c9"
         },
         "arm64": {
-            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.1.0/wspace_0.1.0_windows_arm64.zip",
+            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.2.0/wspace_0.2.0_windows_arm64.zip",
             "bin": [
                 "wspace.exe"
             ],
-            "hash": "65ad54661ae2d71df3aee4a6abcda65f3f023deef142dc0102936ed3b55a1c06"
+            "hash": "ed3de10a11c8cbcbeab3bf9963ae40a709adbd9d760c28889b1e05afea3e9568"
         }
     },
     "homepage": "https://github.com/kivoradigital/wspace",
