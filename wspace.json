@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.1.0/wspace_0.1.0_windows_amd64.zip",
+            "bin": [
+                "wspace.exe"
+            ],
+            "hash": "909ca145ef5e349683c49880c7b3b792a605c1d4a6a888f6f5da911bf7fb088f"
+        },
+        "arm64": {
+            "url": "https://github.com/kivoradigital/wspace/releases/download/v0.1.0/wspace_0.1.0_windows_arm64.zip",
+            "bin": [
+                "wspace.exe"
+            ],
+            "hash": "65ad54661ae2d71df3aee4a6abcda65f3f023deef142dc0102936ed3b55a1c06"
+        }
+    },
+    "homepage": "https://github.com/kivoradigital/wspace",
+    "license": "Apache-2.0",
+    "description": "Multi-repository git worktree workspaces (CLI, MCP server and RPC engine)."
+}
